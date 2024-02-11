@@ -1,3 +1,4 @@
+// CCLab p5.js template project A
 let x;
 let y;
 let R = 100;
