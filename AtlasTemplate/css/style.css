@@ -81,6 +81,7 @@ a:hover {
     text-align: center;
     font-size: 0.7em;
     margin-top: 50px;
+    padding-bottom: 40px;
 }
 
 canvas {
